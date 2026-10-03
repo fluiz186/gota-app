@@ -1,0 +1,3 @@
+- [x] Integrar avatares editáveis nas telas de duelo, ranking e perfil.
+- [x] Desbloquear e equipar roupas especiais aos 20, 40 e 60 litros acumulados, com progresso e aviso.
+- [x] Validar salvamento, bloqueios e apresentação no celular.
